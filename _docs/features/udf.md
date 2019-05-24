@@ -1,5 +1,5 @@
 ---
-title: User Definied Functions
+title: User Defined Functions
 permalink: /docs/udf/
 ---
 
